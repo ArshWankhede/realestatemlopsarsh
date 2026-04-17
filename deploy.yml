@@ -1,0 +1,5 @@
+name: blue
+endpoint_name: housing-endpoint
+model: azureml:housing-price-model:1
+instance_type: Standard_B2s  # Changed from DS2_v2
+instance_count: 1

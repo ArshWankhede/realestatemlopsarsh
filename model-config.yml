@@ -1,0 +1,5 @@
+name: housing-price-model 
+version: 1 
+path: mlruns/1/models/m-941807bcd5604439939d043c1a35b512/artifacts 
+description: "Model trained locally and registered to Azure ML" 
+type: mlflow_model 
